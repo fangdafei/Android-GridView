@@ -17,11 +17,11 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-    //定义GridView
+    //定义 GridView
     private GridView gridView;
-    //定义数据
+    //定义 数据
     private List<Map<String, Object>> dataList;
-    //定义适配器
+    //定义 适配器
     private SimpleAdapter adapter;
 
     @Override
